@@ -13,3 +13,6 @@
 .selection select {
   max-width: 150px;
 }
+.selection select{
+  background-color: rgb(167, 91, 38);
+}
